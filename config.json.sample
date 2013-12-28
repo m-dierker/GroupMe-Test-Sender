@@ -1,0 +1,14 @@
+{
+    "accessToken": "ACCESS_TOKEN_GOES_HERE",
+    "port": 5000,
+    "groupIds": [
+        {
+            "id": 123456,
+            "name": "Test Group"
+        },
+        {
+            "id": 123456789,
+            "name": "Second Test Group"
+        }
+    ]
+}
