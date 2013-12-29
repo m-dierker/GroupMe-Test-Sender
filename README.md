@@ -18,4 +18,4 @@ For example: http://example.com:5000/send/0/Hiya - This will send a message from
 
 The message should be URL encoded. For example: http://example.com:5000/send/1/Hello%20World%21 would send a message from the test user saying "Hello World!" to the group at index 1 in the list in `config.json`. (In the sample, this would be group ID 123456789).
 
-The included Alfred (http://alfredapp.com) workflow is what I use, and it makes life really fast. (It's the second part of this system :D). It enables me to type `gt message` and easily send a message. It's much faster than I what I used to do. Feel free to use! :)
+The included Alfred (http://alfredapp.com) workflow is what I use, and it makes life really fast. (It's the second part of this system :D). It enables me to type `gt message` and easily send a chat to a group. It's much faster than I what I used to do. Feel free to use! :)
