@@ -10,7 +10,7 @@ To use:
 * `source env/bin/activate`
 * `pip install -r requirements.txt`
 * `chmod +x run.sh`
-* `./run.sh (This creates a screen called "groupme-test-sender" and runs the program on it)
+* `./run.sh` (This creates a screen called "groupme-test-sender" and runs the program on it)
 
 You can then send a test message by accessing http://<YOUR_URL>:PORT/send/<group_index_number>/<message>.
 
