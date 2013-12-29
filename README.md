@@ -5,7 +5,7 @@ This is a quick convenient way to send messages from a test GroupMe account to g
 
 To use:
 * Make sure Python, pip, virtualenv, etc. are installed
-* Copy config.json.sample to config.json and fill in the access token, port, and groups to use.
+* Copy `config.json.sample` to `config.json` and fill in the access token, port, and groups to use.
 * `virtualenv env`
 * `source env/bin/activate`
 * `pip install -r requirements.txt`
